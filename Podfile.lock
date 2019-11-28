@@ -1,16 +1,20 @@
 PODS:
   - Alamofire (5.0.0-rc.3)
+  - CircularSpinner (1.2.0)
 
 DEPENDENCIES:
   - Alamofire (~> 5.0.0-rc.3)
+  - CircularSpinner
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - CircularSpinner
 
 SPEC CHECKSUMS:
   Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  CircularSpinner: 80b8ee3eda59b66d20631d4ca7c7c83720931739
 
-PODFILE CHECKSUM: f2414711cad83ef36ae64677bf50955a82c006d1
+PODFILE CHECKSUM: f14caaf94faaf0754cc5eabcde5bf3f5f4775654
 
 COCOAPODS: 1.8.4
